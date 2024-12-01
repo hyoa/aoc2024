@@ -21,9 +21,9 @@ func DayX(input1, input2 string) (any, any) {
 }
 
 func (d dayX) step1() any {
-	return 0
+	return nil
 }
 
 func (d dayX) step2() any {
-	return 0
+	return nil
 }
