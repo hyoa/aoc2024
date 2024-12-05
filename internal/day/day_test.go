@@ -36,6 +36,11 @@ func TestMain(m *testing.M) {
 			r1:  18,
 			r2:  9,
 		},
+		{
+			day: 5,
+			r1:  143,
+			r2:  123,
+		},
 	}
 
 	c := m.Run()
